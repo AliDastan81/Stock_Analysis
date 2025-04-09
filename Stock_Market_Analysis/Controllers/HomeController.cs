@@ -22,6 +22,7 @@ namespace Stock_Market_Analysis.Controllers
 
         public IActionResult Privacy()
         {
+            int z = 8;
             return View();
         }
 
